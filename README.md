@@ -1,2 +1,2 @@
 # SNEAK
-It's an E-commerce application for Sneakers.
+It's an REACTJS based E-commerce application for Sneakers.
